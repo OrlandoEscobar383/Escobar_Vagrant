@@ -69,3 +69,11 @@
    69  git commit -m "mi primer comit"
    70  history
    71  history > historial.txt
+   72  status
+   73  git status
+   74  git add .
+   75  git commit -m "mi segundo comit"
+   76  git status
+   77  git push
+   78  history
+   79  history > historial.txt
