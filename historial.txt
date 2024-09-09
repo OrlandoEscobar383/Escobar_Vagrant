@@ -1,0 +1,71 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  man man
+    5  ks -l
+    6  ls -l
+    7  ls -la
+    8  man mna
+    9  man man
+   10  echo hola
+   11  echo $HOME
+   12  cd repogit
+   13  ls
+   14  ecit
+   15  exit
+   16  git clone https://github.com/OrlandoEscobar383/Escobar_Vagrant.git
+   17  ls
+   18  cd repogit
+   19  ls
+   20  cd ..
+   21  ls
+   22  cd carpeta_compartida/
+   23  cd
+   24  cd ..
+   25  ls
+   26  git clone https://github.com/OrlandoEscobar383/Escobar_Vagrant.git
+   27  cd vagrant
+   28  ls
+   29  cd Escobar_Vagrant/
+   30  ls
+   31  history
+   32  historial.txt
+   33  history > historial.txt
+   34  ls
+   35  cat historial.txt
+   36  git status
+   37  git add --commit -m "agregamos historial.txt al repositorio"
+   38  git status
+   39  git add.
+   40  git --add.
+   41  git add .
+   42  git status
+   43  git commit -m "primer commit donde subimos historial.txt al github"
+   44  git --config -- global user.email "orlandoescobar383@gmail.com"
+   45  git config --global user.email "orlandoescobar@gmail.com"
+   46  git config --global user.name "orlando"
+   47  git commit -m "mi primer commit"
+   48  git push
+   49  git status
+   50  git push
+   51  exit
+   52  ls
+   53  cd repogit/
+   54  ls
+   55  clone git@github.com:OrlandoEscobar383/Escobar_Vagrant.git
+   56  git clone 
+   57  git clone git@github.com:OrlandoEscobar383/Escobar_Vagrant.git
+   58  ls
+   59  cdls
+   60  ls
+   61  cd Escobar_Vagrant/
+   62  ls
+   63  history
+   64  history > historial.text
+   65  ls
+   66  git status
+   67  git add .
+   68  git status
+   69  git commit -m "mi primer comit"
+   70  history
+   71  history > historial.txt
